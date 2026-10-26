@@ -8,9 +8,11 @@ Victor M. Cabrejos Jr.
 
 The second edition is a **preliminary author review draft, October 2026**. It develops the framework through practical examples, conceptual diagrams, reflective questions, a glossary, and source notes. It is subject to revision before publication.
 
-**PDF download pending.** The complete English preliminary preview is prepared; a download link will appear here when its upload is complete.
+[Read the complete English preliminary preview](CCEwAI_Second_Edition_Preliminary_Preview_EN.pdf) · [Download the PDF](https://raw.githubusercontent.com/VictorCabrejos/cognitive-coevolution-with-ai/main/book/CCEwAI_Second_Edition_Preliminary_Preview_EN.pdf)
 
-The prepared author-authorized public preview contains **206 pages**: front cover, all 204 pages of the complete review proof, and back cover. The public copy uses preliminary-preview cover labels. The interior retains its review status and may change before publication. Public availability does not make this a final second-edition release or grant a general redistribution license.
+If GitHub cannot display the preview, download the PDF and open it in your preferred reader.
+
+This author-authorized public preview contains **206 pages**: front cover, all 204 pages of the complete review proof, and back cover. The public copy uses preliminary-preview cover labels. The interior retains its review status and may change before publication. Public availability does not make this a final second-edition release or grant a general redistribution license.
 
 The framework is a practical philosophy and design approach. The book does not present the framework as a clinically validated intervention or a guarantee of learning or other outcomes. Hypothetical and composite examples illustrate reasoning; they are not measured results.
 
