@@ -6,7 +6,7 @@
 
 <img src="assets/book-cover.png" align="right" width="200" alt="Cognitive Co-Evolution with AI: Second Edition preliminary preview cover" />
 
-[Book and preview status](book/README.md) · [Chapter resources](chapters/README.md) · [Framework overview](docs/overview.md)
+[Read the English preliminary book](book/CCEwAI_Second_Edition_Preliminary_Preview_EN.pdf) · [Download PDF](https://raw.githubusercontent.com/VictorCabrejos/cognitive-coevolution-with-ai/main/book/CCEwAI_Second_Edition_Preliminary_Preview_EN.pdf) · [Chapter resources](chapters/README.md) · [Framework overview](docs/overview.md)
 
 Cognitive Co-Evolution with AI is a practical philosophy and design approach for working with AI while developing human understanding, judgment, and agency. It asks two questions of a collaboration: **What useful work did we produce? What can the person now understand and do?**
 
@@ -18,7 +18,7 @@ The human gives the work its purpose, meaning, criteria, and boundaries. AI cont
 
 ## Choose a place to begin
 
-Check the [book and preview status](book/README.md), explore one question through the [chapter companion](chapters/README.md), or use the [overview](docs/overview.md) for the framework's main distinctions. These resources are available to everyone. No coding background, Python installation, or additional account is required to read and use them.
+Read the [complete English Second Edition — Preliminary Preview](book/CCEwAI_Second_Edition_Preliminary_Preview_EN.pdf), explore one question through the [chapter companion](chapters/README.md), or use the [overview](docs/overview.md) for the framework's main distinctions. These resources are available to everyone. No coding background, Python installation, or additional account is required to read and use them.
 
 Each chapter offers a short cheat sheet, a practical activity, a self-check, and explained answers. Try an answer in your own words before consulting the explanation; then return to the book where a distinction remains unclear.
 
@@ -61,7 +61,7 @@ Read the [framework overview and diagrams](docs/overview.md) for these distincti
 
 See [book status and preview information](book/README.md).
 
-The complete 206-page public preliminary preview is prepared. Its download link will appear on the book page when the upload is complete.
+[Read the complete 206-page preliminary preview](book/CCEwAI_Second_Edition_Preliminary_Preview_EN.pdf) · [Download the PDF](https://raw.githubusercontent.com/VictorCabrejos/cognitive-coevolution-with-ai/main/book/CCEwAI_Second_Edition_Preliminary_Preview_EN.pdf)
 
 ## Scope and attribution
 
