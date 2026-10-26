@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 710" role="img" aria-labelledby="title desc">
+  <title id="title">Delegated Cognitive Orchestration</title>
+  <desc id="desc">The human continues substantive inquiry with a coordinating AI system and retains purpose, criteria, review, correction, and authority. The coordinator organizes permitted work across connected reading, project, and learning Vortices. Context is shared selectively; sources and disagreements remain visible.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#276a75"/></marker></defs>
+  <style>text{font-family:Arial,Helvetica,sans-serif;fill:#182e42}.head{font-size:24px;font-weight:700}.body{font-size:20px}.small{font-size:18px;fill:#40576a}.link{fill:none;stroke:#276a75;stroke-width:3;marker-start:url(#arrow);marker-end:url(#arrow)}</style>
+  <rect width="1120" height="710" rx="20" fill="#f6f8fa"/>
+  <text x="42" y="54" font-size="30" font-weight="700">Delegate coordination. Keep substantive inquiry.</text>
+  <text x="42" y="87" class="small">A Vortex of Vortexes connects purposeful inquiries around human goals.</text>
+  <rect x="268" y="122" width="584" height="98" rx="14" fill="#182e42"/>
+  <text x="560" y="161" text-anchor="middle" class="head" style="fill:#fff">The human</text>
+  <text x="560" y="197" text-anchor="middle" class="body" style="fill:#fff">Purpose · criteria · correction · review · authority</text>
+  <path d="M560 230V288" class="link"/>
+  <rect x="584" y="244" width="344" height="30" fill="#f6f8fa"/>
+  <text x="597" y="267" class="small">Ongoing inquiry and decisions</text>
+  <rect x="268" y="300" width="584" height="104" rx="14" fill="#e8edf6" stroke="#a9b7ce" stroke-width="2"/>
+  <text x="560" y="340" text-anchor="middle" class="head">Coordinating AI system</text>
+  <text x="560" y="377" text-anchor="middle" class="body">Routes permitted work; brings connections and questions</text>
+  <path d="M350 412V444H206V478" class="link"/><path d="M560 412V478" class="link"/><path d="M770 412V444H914V478" class="link"/>
+  <g fill="#fff" stroke="#bed1d8" stroke-width="2"><rect x="38" y="490" width="332" height="122" rx="14"/><rect x="394" y="490" width="332" height="122" rx="14"/><rect x="750" y="490" width="332" height="122" rx="14"/></g>
+  <g text-anchor="middle"><text x="204" y="530" class="head">Reading Vortex</text><text x="204" y="565" class="body">Interpret and challenge</text><text x="204" y="593" class="body">a source</text><text x="560" y="530" class="head">Project Vortex</text><text x="560" y="565" class="body">Build, test, and revise</text><text x="560" y="593" class="body">a useful result</text><text x="916" y="530" class="head">Learning Vortex</text><text x="916" y="565" class="body">Practice and check</text><text x="916" y="593" class="body">what transfers</text></g>
+  <text x="560" y="655" text-anchor="middle" class="body">Share context selectively. Preserve sources, limits, and disagreements.</text>
+  <text x="560" y="688" text-anchor="middle" class="small">Illustrative architecture: each Vortex is an inquiry, not simply a chat or an agent.</text>
+</svg>

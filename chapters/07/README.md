@@ -1,0 +1,21 @@
+# Chapter 7 - Memory that survives the conversation
+
+This practice set helps you apply the chapter to a small fictional case. Work on paper or in a plain document; no programming or account is required.
+
+## What you will practice
+
+- Preserve the reason for a decision using Decision, Basis, Open and Next.
+- Restore current context without reviving superseded instructions.
+- Keep memory portable and usable while preserving its evidence status.
+
+## Recommended order
+
+1. Read Chapter 7 in the book.
+2. Use the [cheat sheet](cheat-sheet.md) to review its distinctions.
+3. Complete the [practice activity](practice.md) in about 15 minutes, keeping your first attempt.
+4. Answer the five [self-check questions](self-check.md).
+5. Open the [explained answers and activity rubric](answers.md), then revise one point if needed.
+
+The activity uses invented information. Do not substitute personal, learner or workplace records. An optional assistant can challenge an attempt; you still check the evidence and try the changed case yourself.
+
+[All chapters](../README.md)

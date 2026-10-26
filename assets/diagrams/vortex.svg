@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 510" role="img" aria-labelledby="title desc">
+  <title id="title">The Vortex</title>
+  <desc id="desc">Purpose leads to exploration with AI, human evaluation and correction, application and testing, and preserved learning. A return path begins the next inquiry with better understanding to examine. Human purpose, judgment, and freedom to stop govern the loop.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#276a75"/></marker>
+    <style>text{font-family:Arial,Helvetica,sans-serif;fill:#182e42}.label{font-size:21px;font-weight:700}.body{font-size:18px}.note{font-size:19px;fill:#40576a}.line{fill:none;stroke:#276a75;stroke-width:3;marker-end:url(#arrow)}</style>
+  </defs>
+  <rect width="1120" height="510" rx="20" fill="#f6f8fa"/>
+  <text x="42" y="54" font-size="30" font-weight="700">The Vortex</text>
+  <text x="42" y="87" class="note">One purposeful inquiry, carried forward through curiosity and judgment</text>
+  <rect x="38" y="130" width="1044" height="55" rx="12" fill="#182e42"/>
+  <text x="560" y="165" text-anchor="middle" font-size="21" style="fill:#fff">Human purpose · criteria · correction · authority to pause or stop</text>
+  <g fill="#fff" stroke="#bed1d8" stroke-width="2">
+    <rect x="38" y="225" width="184" height="120" rx="12"/><rect x="253" y="225" width="184" height="120" rx="12"/><rect x="468" y="225" width="184" height="120" rx="12"/><rect x="683" y="225" width="184" height="120" rx="12"/><rect x="898" y="225" width="184" height="120" rx="12"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="130" y="266" class="label">Define purpose</text><text x="130" y="300" class="body">A real problem</text><text x="130" y="324" class="body">and an intention</text>
+    <text x="345" y="266" class="label">Explore with AI</text><text x="345" y="300" class="body">Ask, contribute,</text><text x="345" y="324" class="body">compare</text>
+    <text x="560" y="266" class="label">Evaluate</text><text x="560" y="300" class="body">Inspect evidence;</text><text x="560" y="324" class="body">challenge, correct</text>
+    <text x="775" y="266" class="label">Apply and test</text><text x="775" y="300" class="body">Try a changed</text><text x="775" y="324" class="body">case yourself</text>
+    <text x="990" y="266" class="label">Preserve learning</text><text x="990" y="300" class="body">Keep sources,</text><text x="990" y="324" class="body">reasons, next steps</text>
+  </g>
+  <path d="M224 285H245" class="line"/><path d="M439 285H460" class="line"/><path d="M654 285H675" class="line"/><path d="M869 285H890" class="line"/>
+  <path d="M990 347V396H130V353" class="line"/>
+  <rect x="284" y="377" width="550" height="37" fill="#f6f8fa"/>
+  <text x="560" y="402" text-anchor="middle" class="note">Return with understanding you can examine and use</text>
+  <text x="560" y="461" text-anchor="middle" font-size="21" font-weight="700">Look at both outcomes: useful work + capability retained</text>
+  <text x="560" y="490" text-anchor="middle" font-size="15" fill="#40576a">CCEwAI · Original conceptual summary · Victor M. Cabrejos Jr.</text>
+</svg>

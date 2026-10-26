@@ -1,0 +1,15 @@
+# Publish only reviewed companion materials.
+*.pdf
+!/book/CCEwAI_Second_Edition_Preliminary_Preview_EN.pdf
+*.docx
+*.zip
+*.log
+.env
+.env.*
+private/
+review/
+_context/
+PRIVATE_REVIEW_COPIES/
+SECOND_EDITION_DRAFT*/
+Thumbs.db
+.DS_Store

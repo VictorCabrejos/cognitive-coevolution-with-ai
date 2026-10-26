@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 625" role="img" aria-labelledby="title desc">
+  <title id="title">Triple Evolution Model with the AI-to-AI extension</title>
+  <desc id="desc">The three original evolutions concern AI tools and capabilities, adaptation of the working system to its human, and human cognitive development. AI-to-AI Evolution adds an exchange layer. Human purpose and Cognitive Safety govern every layer. Context and exchange do not themselves retrain model weights.</desc>
+  <style>text{font-family:Arial,Helvetica,sans-serif;fill:#182e42}.head{font-size:23px;font-weight:700}.body{font-size:20px}.small{font-size:18px;fill:#40576a}</style>
+  <rect width="1120" height="625" rx="20" fill="#f6f8fa"/>
+  <text x="42" y="54" font-size="30" font-weight="700">What changes over time?</text>
+  <text x="42" y="87" class="small">Triple Evolution Model: three distinct processes to observe</text>
+  <g fill="#fff" stroke="#bed1d8" stroke-width="2"><rect x="38" y="124" width="332" height="230" rx="14"/><rect x="394" y="124" width="332" height="230" rx="14"/><rect x="750" y="124" width="332" height="230" rx="14"/></g>
+  <g fill="#276a75"><circle cx="75" cy="165" r="19"/><circle cx="431" cy="165" r="19"/><circle cx="787" cy="165" r="19"/></g>
+  <g font-size="21" font-weight="700" text-anchor="middle"><text x="75" y="172" style="fill:#fff">1</text><text x="431" y="172" style="fill:#fff">2</text><text x="787" y="172" style="fill:#fff">3</text></g>
+  <text x="58" y="218" class="head">Tools develop</text><text x="58" y="255" class="body">Models, interfaces, and</text><text x="58" y="284" class="body">capabilities change.</text><text x="58" y="328" class="small">What can the tool now do?</text>
+  <text x="414" y="218" class="head">The system adapts</text><text x="414" y="255" class="body">Context and instructions</text><text x="414" y="284" class="body">improve the fit to the human.</text><text x="414" y="328" class="small">What support fits this person?</text>
+  <text x="770" y="218" class="head">The human develops</text><text x="770" y="255" class="body">Practice, correction, and</text><text x="770" y="284" class="body">application build capability.</text><text x="770" y="328" class="small">What can the person now do?</text>
+  <rect x="38" y="382" width="1044" height="100" rx="14" fill="#e8edf6" stroke="#a9b7ce" stroke-width="2"/>
+  <text x="60" y="419" class="head">+ AI-to-AI Evolution: the additional fourth layer</text>
+  <text x="60" y="455" class="body">Systems critique, refine, and build on contributions through human-directed routing.</text>
+  <rect x="38" y="510" width="1044" height="54" rx="12" fill="#182e42"/>
+  <text x="560" y="544" text-anchor="middle" font-size="21" style="fill:#fff">Human purpose and Cognitive Safety govern every layer.</text>
+  <text x="560" y="595" text-anchor="middle" class="small">Context and exchanges do not, by themselves, retrain a model's underlying weights.</text>
+</svg>
